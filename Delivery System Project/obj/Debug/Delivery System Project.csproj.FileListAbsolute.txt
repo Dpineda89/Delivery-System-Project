@@ -1,0 +1,50 @@
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\bin\Debug\Delivery System Project.exe.config
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\bin\Debug\Delivery System Project.exe
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\bin\Debug\Delivery System Project.pdb
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.AssemblyReference.cache
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Properties.Resources.resources
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.GenerateResource.cache
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.exe
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.pdb
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Login.resources
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Menu.resources
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Security.dll
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Security.pdb
+C:\Users\Joel\source\repos\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.CopyComplete
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\bin\Debug\Delivery System Project.exe.config
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\bin\Debug\Delivery System Project.exe
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\bin\Debug\Delivery System Project.pdb
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Security.dll
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Security.pdb
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.AssemblyReference.cache
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Login.resources
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Menu.resources
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Properties.Resources.resources
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.GenerateResource.cache
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.CopyComplete
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.exe
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.pdb
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Libreria.dll
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Libreria.pdb
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Cliente.resources
+C:\Users\Joel\Desktop\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.CrearCliente.resources
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\bin\Debug\Delivery System Project.exe.config
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\bin\Debug\Delivery System Project.exe
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\bin\Debug\Delivery System Project.pdb
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Libreria.dll
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Security.dll
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Libreria.pdb
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\bin\Debug\DeliverySystem.Security.pdb
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.AssemblyReference.cache
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Cliente.resources
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.CrearCliente.resources
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Login.resources
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Menu.resources
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery_System_Project.Properties.Resources.resources
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.GenerateResource.cache
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.CoreCompileInputs.cache
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.csproj.CopyComplete
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.exe
+D:\Users\DELL\Desktop\L2\Delivery System Project\Delivery System Project\obj\Debug\Delivery System Project.pdb

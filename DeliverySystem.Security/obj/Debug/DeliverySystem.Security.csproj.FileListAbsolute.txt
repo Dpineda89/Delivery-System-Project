@@ -1,0 +1,11 @@
+C:\Users\Joel\source\repos\Delivery System Project\DeliverySystem.Security\bin\Debug\DeliverySystem.Security.dll
+C:\Users\Joel\source\repos\Delivery System Project\DeliverySystem.Security\bin\Debug\DeliverySystem.Security.pdb
+C:\Users\Joel\source\repos\Delivery System Project\DeliverySystem.Security\obj\Debug\DeliverySystem.Security.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\Delivery System Project\DeliverySystem.Security\obj\Debug\DeliverySystem.Security.dll
+C:\Users\Joel\source\repos\Delivery System Project\DeliverySystem.Security\obj\Debug\DeliverySystem.Security.pdb
+C:\Users\Joel\Desktop\Delivery System Project\DeliverySystem.Security\bin\Debug\DeliverySystem.Security.dll
+C:\Users\Joel\Desktop\Delivery System Project\DeliverySystem.Security\bin\Debug\DeliverySystem.Security.pdb
+C:\Users\Joel\Desktop\Delivery System Project\DeliverySystem.Security\obj\Debug\DeliverySystem.Security.csproj.AssemblyReference.cache
+C:\Users\Joel\Desktop\Delivery System Project\DeliverySystem.Security\obj\Debug\DeliverySystem.Security.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\Delivery System Project\DeliverySystem.Security\obj\Debug\DeliverySystem.Security.dll
+C:\Users\Joel\Desktop\Delivery System Project\DeliverySystem.Security\obj\Debug\DeliverySystem.Security.pdb

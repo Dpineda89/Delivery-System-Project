@@ -89,10 +89,13 @@ namespace Delivery_System_Project
         {
             this.Close();
         }
+<<<<<<< HEAD
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
+=======
+>>>>>>> ba6383ea284b03fb85e7aada93875da5c88e289f
     }
 }
